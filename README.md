@@ -4,7 +4,7 @@
 
 # AUTHOR
 
-Kipngetich Ngeno
+Isaac Waithaka
 
 # DESCRIPTION
 
@@ -27,10 +27,10 @@ This is an app that allows users to create,submit,vote pitches based on categori
 
 
 ## Prerequisites
-* Python3.6
+* Python3.9
 
 ## Installation steps 
-* $ git clone https://github.com/Kipngetich33/One-Minute-Pitch.git
+* $ git clone https://github.com/Isaac-waithaka/One-Minute-Pitch.git
 * $ cd One-Minute-Pitch
 * $ source virtual/bin/activate
 * Inside the manage.py module change the config_name parameter from 'production' to 'development' ie app = create_app('production') should be app = create_app('development')
@@ -50,19 +50,19 @@ This is an app that allows users to create,submit,vote pitches based on categori
 #### This project uses major technologies which are :
 * HTML5/CSS 
 * Bootstrap 
-* Python3.6
+* Python3.9
 * flask
 
 
 # Support and Contacts
 
-In case You have any issues using this code please do no hesitate to get in touch with me through khalifngeno@gmail.com or leave a commit here on github.
+In case You have any issues using this code please do no hesitate to get in touch with me through waithakaisaac2016@gmail.com or leave a commit here on github.
 
 # License
 
 * MIT License
 
-Copyright (c) 2017 Kipngetich Ngeno
+Copyright (c) 2020 Isaac Waithaka
 
 
 
@@ -83,5 +83,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.*
-
-Copyright (c) 2017 ** [Kipngetich Ngeno](https://kipngetich33.github.io/ "Github Portfolio") ** 
+ 
